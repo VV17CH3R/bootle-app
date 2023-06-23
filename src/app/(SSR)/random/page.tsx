@@ -4,7 +4,7 @@ import Link from "next/link";
 
 
 export const metadata = {
-    title: 'Международная фото галерея - VV17CH3R Img APP',
+    title: 'В топе - VV17CH3R Img APP',
 }
 
 export default async function Page() {
